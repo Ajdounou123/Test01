@@ -1,9 +1,9 @@
 <?xml version="1.0"?>
 <DatabaseSettings xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-  <Collation />
-  <Containment />
-  <DatabaseName />
+  <Collation>SQL_Latin1_General_CP1_CI_AS</Collation>
+  <Containment>PARTIAL</Containment>
+  <DatabaseName>DefaultDb1221</DatabaseName>
   <ExistsOnSourceControl>true</ExistsOnSourceControl>
-  <ServerName />
-  <ServerVersion>Sql2019</ServerVersion>
+  <ServerName>Q1SWY6Y2\DEV2K17</ServerName>
+  <ServerVersion>Sql2017</ServerVersion>
 </DatabaseSettings>
